@@ -25,7 +25,7 @@ import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
 import docker from './tech/docker.png';
-import figma from './tech/figma.png';
+// import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
@@ -37,6 +37,14 @@ import typescript from './tech/typescript.png';
 import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
+import mongodb from './tech/mongodb.png';
+import express from './tech/express.png';
+import rust from './tech/rust.png';
+import python from './tech/python.png';
+import bitcoin from './tech/bitcoin.png';
+import ethereum from './tech/ethereum.png';
+import ICP from './tech/ICP.png';
+
 
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
@@ -63,6 +71,7 @@ export {
   frontend,
   prototyping,
   github,
+  express,
   close,
   download,
   downloadHover,
@@ -74,7 +83,7 @@ export {
   sendHover,
   css,
   docker,
-  figma,
+  // figma,
   git,
   graphql,
   html,
@@ -86,6 +95,7 @@ export {
   redux,
   tailwind,
   typescript,
+  mongodb,
   komikult,
   leaderboard,
   math,
@@ -96,4 +106,9 @@ export {
   dcc,
   kelhel,
   microverse,
+  rust,
+  python,
+  bitcoin,
+  ethereum,
+  ICP,
 };
