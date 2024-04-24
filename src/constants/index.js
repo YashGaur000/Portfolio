@@ -165,7 +165,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'AI Powered AidBot',
-    description: 'A comic characters list app that displays Marvel characters.',
+    description: 'Introducing our AI-powered Aidbot, your ultimate solution for all healthcare inquiries. Harnessing the powerful LLMs of Huggingface, this bot acts as your personal trained doctor, ready to address your day-to-day health-related questions with precision and expertise.',
     tags: [
       {
         name: 'react',
@@ -186,9 +186,9 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Gotcha',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'Experience groundbreaking computer vision technology, engineered to enhance DVRs/NVRs. 💻 Power your CCTV cameras with AI capabilities for face recognition, head counting, object detection, and much more. 📷👤🔍✨A leaderboard list app that displays scores submitted by different players.',
     tags: [
       {
         name: 'react',
@@ -204,13 +204,13 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
+    repo: 'https://github.com/YashGaur000/welcome-fd',
     // demo: 'https://shaqdeff.github.io/Leaderboard/',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Block2Block',
+    description: 'We are currently in the development phase, envisioning a blogging website using DApp architecture. Enjoy features such as logging in with your wallets, staying updated with tech news, and publishing your own blog. Your content will remain accessible, even if our website goes offline.',
     tags: [
       {
         name: 'nextjs',
@@ -226,7 +226,7 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
+    // repo: 'https://github.com/shaqdeff/Math-Magicians',
     // demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
   },
   // {
