@@ -102,7 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'https://open.spotify.com/search/playdate', //paste the link to your resume here
+                  'hhttps://docs.google.com/document/d/1S2tE4EWC3pswk6uIz4HgdNNDkEIlklWqMjTBK-0eZGc/edit?usp=sharing', //paste the link to your resume here
                   '_blank'
                 )
               }
