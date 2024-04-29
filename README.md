@@ -11,9 +11,6 @@ All projects and experiences included in this portfolio are the result of my own
 - Framer Motion
 - TailwindCSS
 
-## Live Demo
-
-- Click [here](https://shaq-portfolio.netlify.app/) to view the live demo.
 
 ## Getting Started
 
